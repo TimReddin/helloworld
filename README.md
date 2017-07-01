@@ -1,2 +1,4 @@
 # helloworld
-repository from learning
+repository for learning
+Name: Tim Reddin
+Father of 3
